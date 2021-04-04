@@ -1,7 +1,7 @@
 ---
 id: 954b91cc-208b-4d80-a4d3-52936d107679
 title: Spartech_us
-desc: ""
+desc: ''
 updated: 1617538101614
 created: 1617538089210
 ---
