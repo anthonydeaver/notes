@@ -2,7 +2,7 @@
 id: 4551b407-bbee-43e9-a61e-da6f90728182
 title: Transformers
 desc: ""
-updated: 1617546249545
+updated: 1617566208365
 created: 1617546157097
 ---
 
@@ -43,33 +43,19 @@ Megatron secures a statis pod and creates a new Predicon, he also creates 2 new 
 - mostly a filler story, main focus on Cheetor and Vega
 
 Cast: Maximals
-Character Name
+Character Name Beast Mode
 
-Beast Mode
+Analog Panda
 
-Analog
+Alpha Prime Komodo Dragon
 
-Panda
+Grendal Bear
 
-Alpha Prime
+Vega turtle
 
-Komodo Dragon
+Flek lady bug
 
-Grendal
-
-Bear
-
-Vega
-
-turtle
-
-Flek
-
-lady bug
-
-Sonar
-
-bat
+Sonar bat
 
 Cast: Predacons
 Character Name

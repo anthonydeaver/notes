@@ -2,7 +2,7 @@
 id: 027a7745-e0f3-413d-8804-e0b4fb1429b7
 title: The Ashlar
 desc: ""
-updated: 1617552131758
+updated: 1617566023446
 created: 1617548628457
 ---
 
@@ -24,10 +24,8 @@ Over the years the Ashlar learned ways to store energy in 'prepared' objects. Th
 It takes a couple hours each day to recharge the talisman.
 Spells that produce area effects such as `Erupting Earth` or `Fireball` _do_ affect the Ashlar.
 
-Investigating the rumors lears the adventurers to a group of 'traders'
-
-> the traders are slavers who acquired the Ashlar near Calimshan and brought them to Waterdeep
+Investigating the rumors lears the adventurers to a group of 'traders'[^1]
 
 Traders reveal the Ashlar escaped using magic, they didn't know the Ashlar.
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+[^1]: the traders are slavers who acquired the Ashlar near Calimshan and brought them to Waterdeep
