@@ -22,5 +22,36 @@
         "scope": "markdown,yaml",
         "body": "$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE",
         "description": "time"
+    },
+    "h3": {
+        "prefix": "h3",
+        "scope": "markdown",
+        "body": "### "
+    },
+    "h4": {
+        "prefix": "h4",
+        "scope": "markdown",
+        "body": "#### "
+    },
+    "h5": {
+        "prefix": "h5",
+        "scope": "markdown",
+        "body": "##### "
+    },
+    "project": {
+        "prefix": "project",
+        "body": [
+            "## Goals",
+            "",
+            "## Details",
+            "",
+            "## Discussions",
+            "",
+            "## Tasks",
+            "",
+            "## Release Notes",
+            ""
+        ],
+        "description": ""
     }
 }
