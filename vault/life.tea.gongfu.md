@@ -1,9 +1,9 @@
 ---
-id: 7b26cfb7-001e-425a-aa7d-c4d430d43700
+id: 40340d92-4bc9-4290-b43d-c0b7cae19191
 title: Gongfu
-desc: ""
-updated: 1618965206748
-created: 1618965192230
+desc: ''
+updated: 1619041995446
+created: 1619041995446
 ---
 
 MAY 7, 2019
@@ -16,7 +16,7 @@ Gong Fu tea-making may seem daunting or mysterious, but this style of brewing, a
 The Basics of Gong Fu Cha
 A kettle filling a gaiwan of tea leaves
 
-Gong Fu Cha simply refers to a popular manner of brewing tea that began in China in the 18th century and spread throughout the tea-drinking world. In contrast to a typical Western cup of tea, Gong Fu Cha calls for a larger amount of tea leaves and less water, with very brief infusion times. As the leaves are re-infused over the course of a tea session, the infusion times gradually grow longer and longer. It’s when brewing in this way that we have the opportunity to experience tea in small, unique moments that continue to change throughout the tea’s lifespan. The flavor, aroma and body from the first infusion will likely be markedly different than the seventh, for instance.
+Gong Fu Cha simply refers to a popular manner of brepswing tea that began in China in the 18th century and spread throughout the tea-drinking world. In contrast to a typical Western cup of tea, Gong Fu Cha calls for a larger amount of tea leaves and less water, with very brief infusion times. As the leaves are re-infused over the course of a tea session, the infusion times gradually grow longer and longer. It’s when brewing in this way that we have the opportunity to experience tea in small, unique moments that continue to change throughout the tea’s lifespan. The flavor, aroma and body from the first infusion will likely be markedly different than the seventh, for instance.
 
 A Brief History of Gong Fu Cha
 Gong Fu Cha, which again means “right way tea,” is a concept that is closely related to Kung Fu in China. Though Kung Fu is often associated with martial arts, in Chinese the term is related to the words “skill,” “art” and “effort.” So, then, Gong Fu Cha refers to a preparation of tea that is skillful, and a dedication to the art of good tea.
