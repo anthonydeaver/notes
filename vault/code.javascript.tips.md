@@ -2,7 +2,7 @@
 id: ddf85ae8-c8df-4120-8515-2062c30a96c3
 title: Tips
 desc: ''
-updated: 1618404920802
+updated: 1618946904329
 created: 1618404325839
 ---
 
@@ -41,7 +41,7 @@ const age = 15;
 const message =
   age > 18
     ? "The person is an adult"
-    : age > 12
+    : age > 12275
     ? "The person is a teenager"
     : "The person is a child";
 ```
