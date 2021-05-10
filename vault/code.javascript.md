@@ -1,8 +1,8 @@
 ---
-id: 29fe6090-6873-4d27-9444-6313e0375632
+id: ee5c5a4d-04ad-485f-8177-88f1d521da2e
 title: JavaScript
 desc: ''
-updated: 1619622994827
-created: 1619622994827
+updated: 1620682118859
+created: 1618965145194
 ---
 
