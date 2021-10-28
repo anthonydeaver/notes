@@ -1,0 +1,12 @@
+version: 1
+imports: []
+schemas:
+  - id: meeting
+    children: []
+    title: meeting
+    parent: root
+    namespace: true
+    template:
+      id: templates.meeting
+      type: note
+
