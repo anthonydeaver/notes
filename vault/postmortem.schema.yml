@@ -1,0 +1,14 @@
+version: 1
+schemas:
+  # Daily is the top most schema since its parent is 'root' it must have an identifier
+  # this identifier 'daily' will be used when using 'Lookup (schema)' command.
+  - id: devops
+    parent: root
+    # Children of the top most schema do not need to contain identifier and just
+    # require a 'pattern' to be set to match the hierarchy of notes.
+    children:
+      - pattern: postmortem
+        namespace: true
+        template:
+          id: templates.postmortem
+          type: note
